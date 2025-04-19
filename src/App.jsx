@@ -24,7 +24,7 @@ function App() {
             playsInline
             className="absolute top-0 left-0 w-full h-full object-cover"
           >
-            <source src="/public/m1.mp4" type="video/mp4" />
+            <source src="./public/m1.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 
@@ -69,7 +69,7 @@ function App() {
               >
                 GET IN TOUCH
               </button>
-              <a href="/public/CV-Humira-Dev.pdf" download className="bg-gray-200 text-black px-6 py-3 font-semibold rounded-md shadow-md">
+              <a href="./public/CV-Humira-Dev.pdf" download className="bg-gray-200 text-black px-6 py-3 font-semibold rounded-md shadow-md">
                 RESUME
               </a>
             </div>
