@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bootstrap",
+    "icon": "FaBootstrap"
+  },
+  {
+    "name": "Tailwind",
+    "icon": " SiTailwindcss "
+  },
+  {
+    "name": "React",
+    "icon": "FaReact"
+  },
+  {
+    "name": "Vue",
+    "icon": "FaVuejs"
+  },
+  {
+    "name": "Angular",
+    "icon": "FaAngular"
+  },
+  {
+    "name": "Svelte",
+    "icon": "FaSvelte"
+  }
+]

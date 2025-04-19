@@ -1,0 +1,184 @@
+[
+  {
+    "name": "HTML/CSS",
+    "link": "https://link-to-project-1.com",
+    "image": "/public/html-css.jpg",
+    "methodology": "A little info on usage and methodologies for HTML/CSS. A little info on usage and methodologies for HTML/CSS.",
+    "details": [
+      {
+        "title": "Project 1",
+        "description": "cryptocurrency-app",
+        "image": "/public/category/main.png",
+        "liveLink": "https://cryptocurrencyapp-humira.netlify.app/",
+        "sourceCodeLink": "https://github.com/HumiraAlam/react-cryptoapp"
+      },
+      {
+        "title": "Project 2",
+        "description": "Description for detail 2",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-project-2.com",
+        "sourceCodeLink": "https://source-code-link-to-project-2.com"
+      },
+      {
+        "title": "Project 3",
+        "description": "Description for detail 3",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-project-3.com",
+        "sourceCodeLink": "https://source-code-link-to-project-3.com"
+      }
+      ,
+      {
+        "title": "Project 3",
+        "description": "Description for detail 3",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-project-3.com",
+        "sourceCodeLink": "https://source-code-link-to-project-3.com"
+      }
+    ]
+  },
+  {
+    "name": "JAVASCRIPT",
+    "link": "https://link-to-project-2.com",
+    "image": "/public/js.png",
+    "methodology": "A little info on usage and methodologies for JavaScript.",
+    "details": [
+      {
+        "title": "Detail 1",
+        "description": "Description for detail 1",
+        "image": "/path/to/detail1-image.jpg",
+        "liveLink": "https://live-link-to-detail-1.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-1.com"
+      },
+      {
+        "title": "Detail 2",
+        "description": "Description for detail 2",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-2.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-2.com"
+      },
+      {
+        "title": "Detail 3",
+        "description": "Description for detail 3",
+        "image": "/path/to/detail3-image.jpg",
+        "liveLink": "https://live-link-to-detail-3.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-3.com"
+      }
+    ]
+  },
+  {
+    "name": "API",
+    "link": "https://link-to-project-3.com",
+    "image": "/path/to/api-image.jpg",
+    "methodology": "A little info on usage and methodologies for API.",
+    "details": [
+      {
+        "title": "Detail 1",
+        "description": "Description for detail 1",
+        "image": "/path/to/detail1-image.jpg",
+        "liveLink": "https://live-link-to-detail-1.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-1.com"
+      },
+      {
+        "title": "Detail 2",
+        "description": "Description for detail 2",
+        "image": "/path/to/detail2-image.jpg",
+        "liveLink": "https://live-link-to-detail-2.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-2.com"
+      },
+      {
+        "title": "Detail 3",
+        "description": "Description for detail 3",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-3.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-3.com"
+      }
+    ]
+  },
+  {
+    "name": "REACT",
+    "link": "https://link-to-project-4.com",
+    "image": "/path/to/react-image.jpg",
+    "methodology": "A little info on usage and methodologies for React.",
+    "details": [
+      {
+        "title": "Detail 1",
+        "description": "Description for detail 1",
+        "image": "/path/to/detail1-image.jpg",
+        "liveLink": "https://live-link-to-detail-1.com",
+        "sourceCodeLink": "https://github.com/HumiraAlam/react-projects"
+      },
+      {
+        "title": "Detail 2",
+        "description": "Description for detail 2",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-2.com",
+        "sourceCodeLink": "https://github.com/HumiraAlam/nextjs-real-estate-app-react-tilwind-supabase"
+      },
+      {
+        "title": "Detail 3",
+        "description": "Description for detail 3",
+        "image": "/path/to/detail3-image.jpg",
+        "liveLink": "https://live-link-to-detail-3.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-3.com"
+      }
+    ]
+  },
+  {
+    "name": "DASHBOARD",
+    "link": "https://link-to-project-3.com",
+    "image": "/path/to/dashboard-image.jpg",
+    "methodology": "A little info on usage and methodologies for Dashboard.",
+    "details": [
+      {
+        "title": "Detail 1",
+        "description": "Description for detail 1",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-1.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-1.com"
+      },
+      {
+        "title": "Detail 2",
+        "description": "Description for detail 2",
+        "image": "/path/to/detail2-image.jpg",
+        "liveLink": "https://live-link-to-detail-2.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-2.com"
+      },
+      {
+        "title": "Detail 3",
+        "description": "Description for detail 3",
+        "image": "/path/to/detail3-image.jpg",
+        "liveLink": "https://live-link-to-detail-3.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-3.com"
+      }
+    ]
+  },
+  {
+    "name": "E-COMMERCE",
+    "link": "https://link-to-project-4.com",
+    "image": "/path/to/ecommerce-image.jpg",
+    "methodology": "A little info on usage and methodologies for E-Commerce.",
+    "details": [
+      {
+        "title": "Detail 1",
+        "description": "Description for detail 1",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-1.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-1.com"
+      },
+      {
+        "title": "Detail 2",
+        "description": "Description for detail 2",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-2.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-2.com"
+      },
+      {
+        "title": "Detail 3",
+        "description": "Description for detail 3",
+        "image": "/public/category/main.png",
+        "liveLink": "https://live-link-to-detail-3.com",
+        "sourceCodeLink": "https://source-code-link-to-detail-3.com"
+      }
+    ]
+  }
+]
